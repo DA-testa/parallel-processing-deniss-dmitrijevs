@@ -1,5 +1,7 @@
 # python3
 
+# Deniss Dmitrijevs 221RDB322
+
 def parallel_processing(n, m, data):
     output = []
     # TODO: write the function for simulating parallel tasks, 
